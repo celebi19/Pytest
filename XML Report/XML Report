@@ -1,0 +1,4 @@
+To generate XML Report after test run use below
+< --junitxml= name of the xml e.g.
+pytest test_multiplication.py -v --junitxml="result.xml"
+After test run , "result.xml" file will be generated in the directory that the test was executed.

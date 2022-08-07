@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="Hakans-Air" name="pytest" skipped="0" tests="1" time="0.016" timestamp="2020-09-06T15:51:00.503316"><testcase classname="test_div_by_13" file="test_div_by_13.py" line="2" name="test_divisible_by_13" time="0.001"></testcase></testsuite></testsuites>
